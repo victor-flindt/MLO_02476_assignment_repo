@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-01-06T15:11:02.638261",
+    "startedAt": "2022-01-06T15:10:59.845619",
+    "docker": null,
+    "gpu": "GeForce MX150",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\victo\\OneDrive - Danmarks Tekniske Universitet\\skole\\9.semester\\Machine Learning Operations 02476\\dtu_mlops\\s4_debugging_and_logging\\exercise_files\\vae_mnist_working.py",
+    "codePath": "s4_debugging_and_logging\\exercise_files\\vae_mnist_working.py",
+    "git": {
+        "remote": "https://github.com/SkafteNicki/dtu_mlops",
+        "commit": "87d0a04ca8db30113b3f1127e79a70aeba4b626f"
+    },
+    "email": null,
+    "root": "C:/Users/victo/OneDrive - Danmarks Tekniske Universitet/skole/9.semester/Machine Learning Operations 02476/dtu_mlops",
+    "host": "LAPTOP-7JIHDG2D",
+    "username": "victo",
+    "executable": "C:\\Users\\victo\\anaconda3\\envs\\MLO2\\python.exe"
+}

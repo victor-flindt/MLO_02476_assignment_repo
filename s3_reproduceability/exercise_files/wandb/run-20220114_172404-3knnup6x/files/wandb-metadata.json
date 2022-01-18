@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-01-14T16:24:08.377159",
+    "startedAt": "2022-01-14T16:24:04.860233",
+    "docker": null,
+    "gpu": "GeForce MX150",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\victo\\OneDrive - Danmarks Tekniske Universitet\\skole\\9.semester\\Machine Learning Operations 02476\\mlo_dtu\\s3_reproduceability\\exercise_files\\vae_mnist.py",
+    "codePath": "vae_mnist.py",
+    "host": "LAPTOP-7JIHDG2D",
+    "username": "victo",
+    "executable": "C:\\Users\\victo\\anaconda3\\envs\\MLO2\\python.exe"
+}
